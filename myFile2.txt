@@ -1,0 +1,6 @@
+This line is added using fwrite funtion
+This line is another line added after the first lineThis line is added using fwrite funtion
+This line is another line added after the first lineThis line is added using fwrite funtion
+This line is another line added after the first lineThis line is added using fwrite funtion
+This line is another line added after the first lineThis line is added using fwrite funtion
+This line is another line added after the first line

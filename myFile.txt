@@ -1,1 +1,3 @@
-This is the best file in the world and i;m in love with this.
+This is the best file in the world and i'm in love with this.
+This is the second line.
+And this is the third line.
